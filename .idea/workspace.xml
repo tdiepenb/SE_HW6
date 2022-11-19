@@ -1,18 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7534500c-fbec-4032-a42d-8cd9b8bee8e2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SE_HW6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/de/uni/koeln/se/BetMore_Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/de/uni/koeln/se/Game_Chair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/de/uni/koeln/se/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/de/uni/koeln/se/Shuffle.java" afterDir="false" />
+    <list default="true" id="7534500c-fbec-4032-a42d-8cd9b8bee8e2" name="Changes" comment="finished game">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/de/uni/koeln/se/BetMore_Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/de/uni/koeln/se/BetMore_Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/de/uni/koeln/se/Game_Chair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/de/uni/koeln/se/Game_Chair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/de/uni/koeln/se/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/de/uni/koeln/se/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/de/uni/koeln/se/Shuffle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/de/uni/koeln/se/Shuffle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +51,7 @@
       <workItem from="1668686469311" duration="1415000" />
       <workItem from="1668770756552" duration="6000" />
       <workItem from="1668861873619" duration="50000" />
+      <workItem from="1668864264306" duration="6583000" />
     </task>
     <servers />
   </component>
@@ -72,5 +68,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finished game" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished game" />
   </component>
 </project>

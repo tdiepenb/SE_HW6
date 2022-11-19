@@ -4,17 +4,13 @@ import java.util.Random;
 
 public class Shuffle {
 
-    int x;
-
     public Shuffle() {
         super();
     }
 
-    public int pickCard() {
+    public int pick_card() {
         Random rand = new Random();
-        x = rand.nextInt();
-
-        return x;
+        return rand.nextInt(1, 101);
     }
 
 }

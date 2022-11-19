@@ -1,5 +1,7 @@
+import de.uni.koeln.se.Game_Chair;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        new Game_Chair();
     }
 }
