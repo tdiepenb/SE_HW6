@@ -37,7 +37,6 @@ public class Player {
                             nrOfRounds++;
                             System.out.println("You have " + (5 - nrOfRounds) + " redraws remaining");
                             x = bet.Play();
-                            System.out.println("You card value is: " + x);
                             break;
                         case "no":
                         case "No":
